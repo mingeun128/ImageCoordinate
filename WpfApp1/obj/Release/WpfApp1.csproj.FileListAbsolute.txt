@@ -1,0 +1,15 @@
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\bin\Release\Map 좌표 C언어 변환기.exe.config
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\bin\Release\Map 좌표 C언어 변환기.exe
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\bin\Release\Map 좌표 C언어 변환기.pdb
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\App.g.cs
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\Map 좌표 C언어 변환기_MarkupCompile.cache
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\Map 좌표 C언어 변환기_MarkupCompile.lref
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\Map 좌표 C언어 변환기.g.resources
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\CoordinateToC.Properties.Resources.resources
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.GenerateResource.cache
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\Map 좌표 C언어 변환기.exe
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\Map 좌표 C언어 변환기.pdb
+C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Release\WpfApp1.csprojAssemblyReference.cache
