@@ -13,3 +13,4 @@ C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateRes
 C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
 C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
 C:\Users\alsrm\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\hangsoo\Documents\GitHub\ImageCoordinate\WpfApp1\bin\Debug\Map 좌표 C언어 변환기.exe.config
